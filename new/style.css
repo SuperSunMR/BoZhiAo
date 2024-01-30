@@ -1,0 +1,61 @@
+.Title{width: 100%;margin-top: 56px;}
+.Title h2{background: url(/new/titleBg.png) no-repeat center;font-size: 24px;color: #333333;font-weight: bold;text-align: center;}
+.Title h2 a{text-decoration: none;color: #333333;}
+.Title h2 em{color: #2454ac;font-weight: bold;}/*修改*/
+
+/*partner*/
+.partner{width: 100%;background: #f7f7f7;overflow: hidden;padding-bottom: 8px;}
+.partner .Title h2 a{color: #333333;font-weight: bold;}
+.partner .hzCon{position: relative;margin-top: 38px;}
+.partner .hzCon i{display: block;width: 30px; height: 60px;position: absolute;top: 35px;cursor: pointer;}
+.partner .hzCon .btn01{background: url(/new/hz-btn01.png) no-repeat left top; left: -50px;}
+.partner .hzCon .btn02{background: url(/new/hz-btn02.png) no-repeat center top;right: -50px;}
+.partner .hzLunB{width: 1000px;overflow: hidden;height: 159px;position: relative;}
+.partner .hzLunB ul{height: 159px;overflow: hidden;position: absolute;top: 0; left: 0;}
+.partner .hzLunB li{width: 184px;float: left;text-align: center;margin: 0 8px;}
+.partner .hzLunB li img{display: block;border: 1px solid #e6e6e6;margin-bottom: 12px;}
+.partner .hzLunB li a{font-size: 14px;color: #555555;text-decoration: none;}
+
+.container{margin-left:auto; margin-right:auto; width:1000px;}
+
+
+/*proCenter*/
+.proCenter{width: 100%;overflow: hidden;padding-bottom: 44px;}
+.proCenter .Title h2{}
+.proCenter .Title p{background: url(/new/pro-titleBg.png) no-repeat center;}
+.proCenter .proLeft,.proCenter .proRight{margin-top: 38px;}
+.proCenter .proLeft{width: 240px;float: left;}
+.proLeft h3{font-size: 22px;height: 80px;line-height: 80px;text-align: center;width: 100%;font-weight: normal;background: #1057c1;}
+.proLeft h3 a{color: #FFFFFF;display: block;text-decoration: none;line-height: 80px;}
+.proLeft dl{width: 240px;border-bottom: 1px solid #dedede;border-top: 1px solid #FFFFFF;background: #f6f6f6;overflow: hidden;}
+.proLeft dt{width: 240px;height: 51px;overflow: hidden;line-height: 49px;}
+.proLeft dt a{ display:block; font-size:14px; color:#333333; font-weight:bold;  line-height:49px;background:url(/new/pro-jia.png) no-repeat 211px center;padding-left:20px;text-decoration: none; }
+.proLeft dd{ overflow:hidden; width:220px; padding-left:20px;padding-bottom: 4px; display: none;}
+.proLeft .last dd{padding-bottom: 10px;}
+.proLeft dd a{ display:block; font-size:14px; color:#555555; line-height:25px; padding-left:17px; background:url(/new/pro-Jt.png) no-repeat left center; white-space:nowrap; text-overflow:ellipsis; overflow:hidden;}
+.proLeft dl.hover { background-color: #014dbd;}
+.proLeft dl.hover dd a{background: url(/new/pro-JtCur.png) no-repeat left center; color: #fff;}
+.proLeft dl dt.active a{ background:  url(/new/pro-jian.png) no-repeat 207px center; }
+.proLeft dl.hover dt a{background:  url(/new/pro-jian2.png) no-repeat 207px center; color: #fff;}
+.proRight  { overflow:hidden; width:740px; float:right;height: 692px;}
+.proRight .protop{ overflow:hidden; width:100%;background-color: #f2f2f2;}
+.proRight .protop ul{ float:left;overflow: hidden;}
+.proRight .protop li{width: 160px;height: 80px;line-height: 80px;height: 80px;text-align: center;background: #e6e6e6;float: left;font-weight: bold;}
+.proRight .protop li a{display: block;line-height: 80px;color: #333333;font-size: 16px;text-decoration: none;}
+.proRight .protop li.cur{background-color: #014dbd;font-weight: bold;}
+.proRight .protop li.cur a{color: #FFFFFF;}
+.proRight .protop li:hover{background-color: #014dbd;}
+.proRight .protop li:hover a{color: #FFFFFF;}
+/*修改background:url(Img/Index/pro-phone.png) no-repeat left center;*/
+.proRight .protop span{ float:right; /*font-size:14px; color:#888888;*/ background:url(/new/pro-phone.png) no-repeat left center;display: block;padding: 0 20px;margin-top: 31px;display: block;overflow: hidden;}
+.proRight .protop b{float: left;font-size:14px;color:#888888;line-height: 29px;font-weight: normal;}/*修改  增加一行*/
+.proRight .protop em{color: #2454ac;font-size: 24px;font-weight: bold;float: left;}/*修改float: left;*/
+.proRight .proList{ overflow:hidden;width: 110%;margin-top: 20px;height: 855PX;}
+.proRight .proList li{ float:left; width:240px; height:184px; margin-right:10px;background: #f2f2f2;position: relative;margin-bottom: 3px;}
+.proRight .proList li img{ display:block; margin:0 auto; margin-bottom: 4px;margin-top: 3px;}
+.proRight .proList i{display: block;position: absolute;top: 3px;right: 3px;background: url(/new/pro-jia01.png) no-repeat right top;width: 28px;height: 28px;}
+.proRight .proList li a{ display:block; text-decoration:none;font-size: 14px;color: #333333;text-align: center;}
+.proRight .proList li:hover{ background: #014dbd;}
+.proRight .proList li:hover a{color: #FFFFFF;}
+.proRight .proList li:hover i{background: url(/new/pro-jia02.png) no-repeat right top;}
+/*.proRight .proList li:hover img{opacity: 0.5;}   修改*/

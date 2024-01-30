@@ -1,0 +1,102 @@
+
+body{ background:#f6f6f6 url(../images/bottombg.gif) repeat-x 0 bottom;}
+
+#banner{height:220px;margin:0px auto; padding-bottom:1px; background:url(../images/banner1.jpg) no-repeat center 0;}
+#banner1{height:220px;margin:0px auto; padding-bottom:1px; background:url(../images/d.jpg) no-repeat center 0;}
+#banner2{height:220px;margin:0px auto; padding-bottom:1px; background:url(../images/banner3.jpg) no-repeat center 0;}
+#banner3{height:220px;margin:0px auto; padding-bottom:1px; background:url(../images/banner4.jpg) no-repeat center 0;}
+#banner4{height:220px;margin:0px auto; padding-bottom:1px; background:url(../images/banner5.jpg) no-repeat center 0;}
+#banner5{height:220px;margin:0px auto; padding-bottom:1px; background:url(../images/banner6.jpg) no-repeat center 0;}
+#banner6{height:220px;margin:0px auto; padding-bottom:1px; background:url(../images/banner7.jpg) no-repeat center 0;}
+#banner7{height:220px;margin:0px auto; padding-bottom:1px; background:url(../images/banner8.jpg) no-repeat center 0;}
+
+.conbg{ background:url(../images/conbg.gif) repeat-x; padding-top:20px;}
+.con{width:980px; margin:0 auto;}
+.con_l{width:249px;}
+.submenu{width:249px;}
+.submenu span{width:249px; display:block; height:11px; overflow:hidden; background:url(../images/submenux.gif) no-repeat;}
+.tit{width:160px; height:25px;background:url(../images/titbg.gif) no-repeat; padding:32px 0 0 89px;color:#fff; font-size:15px; font-weight:bold;}
+.submenu ul{ padding:7px 16px 0 13px; background:url(../images/submenubg.gif) repeat-y;}
+.submenu li{width:167px; height:auto; background:url(../images/submenudoc.gif) no-repeat 30px 13px; border-bottom:1px solid #e2e2e2; padding:10px 0 10px 53px; line-height:14px;}
+.submenu li a{color:#666; font-size:14px; font-weight:bold;}
+.submenu li:hover a,.submenu li.hover a{color:#2447A5; font-weight:bold;}
+.con_r{width:700px;}
+.title{width:687px; height:27px; background:url(../images/titleline.gif) repeat-x 0 bottom; padding:20px 5px 0 8px; line-height:16px;}
+.title_l{color:#2447A5; font-size:14px; font-weight:bold;}
+.title_r{color:#999;}
+.title_r a{color:#858484;}
+#main{width:700px; padding:30px 0 38px 0px;}
+#main li{width:195px; height:246px; float:left; margin:0 22px 29px 0; background:url(../images/propicbg.gif) no-repeat; padding:9px 7px 0 9px; color:#757575; display:inline;}
+#main li:hover{width:195px; height:246px; background:url(../images/propicbg1.gif) no-repeat;color:#fff;}
+#main li b a{width:195px; text-align:center;color:#f67901; display:block; padding-top:5px;}
+#main li:hover b a{color:#fff;}
+#main li p{ padding:0 5px;}
+#main li span{width:160px; height:30px; display:block; text-align:center; padding-left:35px; margin-top:12px;}
+#main li span a{color:#fff;width:113px; height:30px; background:url(../images/proannubg.gif) no-repeat; display:block; line-height:30px; padding-left:15px;}
+#main li:hover span a{ background:url(../images/proannubg1.gif) no-repeat;color:#ff8000;}
+.order{text-align:right;}
+.order b{color:#6b6b6b;}
+.order a{ color:#adadad; margin:0 2px; border:1px solid #d4d4d4; background:#fdfdfd; padding:3px;}
+.order input{width:29px; height:19px; background:url(../images/orderinput.gif) no-repeat; margin:5px 0px 0 12px; display:inline; border:none;}
+
+#main1{width:675px; padding:38px 0 42px 25px;}
+#main1 b{ font-size:16px; color:#1B46B6; padding-left:6px; display:block;}
+#main1 span{ background:url(../images/pic_bg.gif) no-repeat;width:535px; height:298px; display:block; padding:6px 0 0 12px; margin:10px 0 20px 0;}
+#pro_con{width:670px; border:1px solid #e1e1e1;}
+#pro_tit{width:670px; height:28px; background:url(../images/pro_tit_bg.gif) repeat-x;}
+#pro_tit li{width:150px; height:28px; text-align:center; line-height:28px; background:url(../images/pro_tit_line.gif) no-repeat right 0; font-weight:bold; float:left;}
+#pro_tit li:hover,#pro_tit .active{ background:#2E57C1 url(../images/pro_tit_line.gif) no-repeat right 0; color:#182700;}
+
+.pcon {
+  width:650px; padding:10px 0 10px 10px;
+}
+
+.pcontab {
+  width:650px;
+}
+
+
+
+#main2{width:674px; padding:30px 11px 40px 15px;}
+
+#main2 p{text-indent: 2em;}
+
+#main3{width:647px; padding:35px 30px 50px 23px;}
+
+#main4{width:640px; padding:46px 0 148px 60px; background:url(../images/contactbg.gif) no-repeat; line-height:28px;}
+#main4 b{ font-size:16px; color:#138A1C; margin-bottom:3px; display:block;}
+
+#main5{width:660px; padding:40px 0 48px 40px;}
+.box1_m{width:660px;padding-top:30px;}
+.box1_m select{height:20px; margin:0 0 10px 19px;}
+input{width:287px; height:17px; margin:0 0 10px 19px;}
+textarea{width:428px; height:90px; border:1px solid #e4e4e4c; margin:14px 0 15px 19px;}
+.annu{width:500px; height:24px;text-align:center;}
+.annu input{width:61px; height:21px; background:url(../images/annu.gif) no-repeat; color:#535353; border:none;}
+
+#main6{width:628px; padding:30px 35px 40px 37px;}
+
+#main7{width:658px; padding:20px 19px 60px 23px;}
+
+#main8{width:655px; padding:40px 18px 40px 27px;}
+#main8 dl{ margin-bottom:40px; height:88px; display:block; overflow:hidden;}
+#main8 dl dt{ padding:5px; background:#ddd; width:121px; height:78px; float:left;}
+#main8 dl dd{ float:left; width:500px; color:#4d4d4d; text-align:left; padding-top:5px;}
+#main8 dl dd b{color:#2447A5; font-size:14px;}
+#main8 dl dd p{ color:#6e6e6e; height:32px; line-height:32px; border-bottom:1px solid #eee;}
+#main8 dl dd a{ float:right; height:32px; line-height:32px; color:#666;}
+#main8 dl dd span a{color:#666; float:left; height:32px; line-height:32px; padding-left:23px; background:url(../images/newsdoc.gif) no-repeat 0 7px;}
+#main8 dl:hover dd a{color:#2447A5;}
+#main8 dl:hover dd span a{color:#2447A5;}
+
+#main9{width:654px; padding:30px 18px 40px 28px;}
+#main9 span{width:654px; height:22px;display:block;text-align:center;margin:0px 0 25px 0;color:#bbbaba; line-height:27px;}
+#main9 b{width:654px; height:26px; font-size:16px;color:#2447A5; display:block;text-align:center;}
+#main9 p strong{ font-size:14px;}
+
+.lxwm{ padding:0; float:left;}
+.lxwm span{ padding-left:4px; width:200px;float:left;}
+.lxwm ul{ width:680px; float:left; padding:0;}
+.lxwm ul li{ width:328px; float:left; padding-bottom:15px; height:147px;}
+.lxwm ul li a{ width:101px; float:left; padding-right:0;}
+.lxwm ul li a img{ width:93px; height:81px; border:1px solid #f8b18a; padding:3px; background:#fff;}
