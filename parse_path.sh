@@ -16,9 +16,10 @@ for(( i=0;i<${#FILE_LIST[@]};i++)) do
     # sed -i 's/src="\//src=".\//g' ${FILE_LIST[i]}
     # sed -i 's/href="\//href=".\//g' ${FILE_LIST[i]}
     # sed -i 's/href=".\/"/href=".\/index.html"/g' ${FILE_LIST[i]}
-    sed -i '' 's/浙江省嘉善县惠民街道鑫达路99号39号厂房/山东省青岛市胶州市扬州西路南北辛置/g' ${FILE_LIST[i]} # For Mac osx
+    # sed -i '' 's/浙江省嘉善县惠民街道鑫达路99号39号厂房/山东省青岛市胶州市扬州西路南北辛置/g' ${FILE_LIST[i]} # For Mac osx
     # sed -i '' 's/+86-573-84888869/13964816129/g' ${FILE_LIST[i]} # For Mac osx
     # sed -i '' 's/关于麦菲/关于博至奥/g' ${FILE_LIST[i]} # For Mac osx
+    sed -i 's/18616676475/13964816129/g' ${FILE_LIST[i]}
     
 done;
 
